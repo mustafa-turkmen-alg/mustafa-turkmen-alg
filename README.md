@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/Algoritma-Donanim-ve-Yazilim">Algoritma</a>
-- 💬 Ask me about Flutter, mobile app development and architecture of mobile applicaton
+- 💬 Ask me about Flutter, Mobile App Development and Architecture of Mobile Application
 - 📫 How to reach me: mustafa.turkmen@1000.com.tr
 - 😄 Pronouns: He/Him
   
